@@ -1,0 +1,66 @@
+{
+  "id": "39399604-91ef-4a6d-987f-796fe8ef1d19",
+  "name": "Add-to-cart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "73e912a1-f67a-4b9f-bf70-936f0f1ecaa2",
+          "name": "item",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$item",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5612c49e-adcd-453a-b2c8-fcb2e920ca00",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please specify items quantity you want using Arabic number, like I want to add 2 Wisconsin Leggings into cart."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

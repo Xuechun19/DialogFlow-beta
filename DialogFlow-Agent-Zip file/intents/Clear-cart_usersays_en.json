@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1daa7f40-0e43-4a8e-a1dd-33b34e0043de",
+    "data": [
+      {
+        "text": "could you help me clear my cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81161d08-79f7-4053-b3e2-fc7b5aaea328",
+    "data": [
+      {
+        "text": "empty cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91f637b2-e6b4-43e9-a634-810bdd55d1bc",
+    "data": [
+      {
+        "text": "clear my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

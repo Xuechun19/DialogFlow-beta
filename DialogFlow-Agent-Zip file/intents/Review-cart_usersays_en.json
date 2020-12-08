@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f32229ea-e3e6-4afd-b9f7-150eff77eb2d",
+    "data": [
+      {
+        "text": "Let me review the cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "115eded8-c7b2-4cd1-a0d3-327aa68c8949",
+    "data": [
+      {
+        "text": "Can I review the cart?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8f940b2-1a7d-46b3-acd9-335c55324f4c",
+    "data": [
+      {
+        "text": "I want to review cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c344d7b-81c0-4238-8563-18a9a4dd4b74",
+    "data": [
+      {
+        "text": "review cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

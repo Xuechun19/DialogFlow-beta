@@ -1,0 +1,9 @@
+{
+  "id": "72bd7fe3-a37a-438a-aa34-8122a493c128",
+  "name": "proName",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

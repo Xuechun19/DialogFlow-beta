@@ -1,0 +1,26 @@
+[
+  {
+    "value": "number",
+    "synonyms": [
+      "number"
+    ]
+  },
+  {
+    "value": "types",
+    "synonyms": [
+      "types"
+    ]
+  },
+  {
+    "value": "price",
+    "synonyms": [
+      "price"
+    ]
+  },
+  {
+    "value": "name",
+    "synonyms": [
+      "name"
+    ]
+  }
+]

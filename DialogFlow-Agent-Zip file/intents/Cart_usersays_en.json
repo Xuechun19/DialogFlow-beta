@@ -1,0 +1,63 @@
+[
+  {
+    "id": "331fd274-5276-441a-a0e4-b571d1c6ac73",
+    "data": [
+      {
+        "text": "choice",
+        "meta": "@sys.any",
+        "alias": "choice",
+        "userDefined": true
+      },
+      {
+        "text": " in my cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d623e09-1d6e-44cb-87a8-bd4aa5733fbd",
+    "data": [
+      {
+        "text": "choice",
+        "meta": "@sys.any",
+        "alias": "choice",
+        "userDefined": true
+      },
+      {
+        "text": " of products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44ccc704-5fd3-4298-80b3-c1d640f17294",
+    "data": [
+      {
+        "text": "total ",
+        "userDefined": false
+      },
+      {
+        "text": "choice",
+        "meta": "@sys.any",
+        "alias": "choice",
+        "userDefined": true
+      },
+      {
+        "text": " of products",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

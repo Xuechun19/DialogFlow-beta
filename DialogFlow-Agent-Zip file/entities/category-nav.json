@@ -1,0 +1,9 @@
+{
+  "id": "98da4f43-604a-4ef1-92ef-14e148a04de4",
+  "name": "category-nav",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

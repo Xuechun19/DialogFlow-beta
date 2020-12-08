@@ -1,0 +1,9 @@
+{
+  "id": "4821d485-881b-4281-b3e1-5b255e74cc85",
+  "name": "cate",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

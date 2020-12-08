@@ -1,0 +1,68 @@
+[
+  {
+    "id": "67fa7e86-2bc6-4d41-9aac-76b15815de3e",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "item",
+        "meta": "@sys.any",
+        "alias": "item",
+        "userDefined": true
+      },
+      {
+        "text": " from cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85a362ba-c9b2-40ee-9a06-60523f84f11e",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "number",
+        "meta": "@sys.number-integer",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "item",
+        "meta": "@sys.any",
+        "alias": "item",
+        "userDefined": true
+      },
+      {
+        "text": " from cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
